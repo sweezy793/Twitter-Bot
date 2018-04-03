@@ -17,3 +17,5 @@ stream() function for notifying or directly communicating
 -To tweet change tweet object accordingly in index2.js file and run with command 'node index2.js'
 
 -To send tweets at a particular time interval use index3.js and run with command 'node index3.js'
+
+-Bot can also send tweets to anyone that follows you. To use run in command line 'node index4.js'
