@@ -12,6 +12,8 @@ stream() function for notifying or directly communicating
 
 ---------------------------------------------------------
 
--To search tweets change params object accordingly in index.js file and run with command node index.js
+-To search tweets change params object accordingly in index.js file and run with command 'node index.js'
 
--To tweet change tweet object accordingly in index2.js file and run with command node index2.js
+-To tweet change tweet object accordingly in index2.js file and run with command 'node index2.js'
+
+-To send tweets at a particular time interval use index3.js and run with command 'node index3.js'
